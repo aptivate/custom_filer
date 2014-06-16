@@ -1,0 +1,2 @@
+from sorting_tag_tests import SortingTagTests
+from test_sequence_functions import TestSequenceFunctions

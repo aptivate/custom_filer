@@ -1,0 +1,10 @@
+*.pyc
+.*.swp
+*~
+.ropeproject
+reports/*
+.DS_Store
+.pydevproject
+*.sql
+*.sql.gz
+.sass-cache
